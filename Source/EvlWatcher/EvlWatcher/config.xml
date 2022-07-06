@@ -155,7 +155,7 @@
 
 			<!-- this is the timeframe (in seconds) to be inspected-->
 			<EventAge>
-				120
+				300
 			</EventAge>
 
 			<!-- this is the amount of times an entry must occure within the time frame to be considered a brute force attempt-->
